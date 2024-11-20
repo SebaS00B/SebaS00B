@@ -340,7 +340,7 @@ Featured Repositories.
 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="www.linkedin.com/in/sebastian-burgos-a2103a241"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="www.linkedin.com/in/sebastian-burgos-a2103a241/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:sebasburgos2@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 <a href = "https://www.instagram.com/sebasburgos3/"><img width="100px" alt = "Instagram" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100011202750546"><img width="100px" alt = "Facebook" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
